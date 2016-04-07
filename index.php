@@ -9,10 +9,5 @@
     <input type="submit" value="upload" name="submit">
 </form>
 
-<?php
-function updategit(){shell_exec("time > /text.txt"); };
-updategit()
-?>
-
 </body>
 </html>
