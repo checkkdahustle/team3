@@ -7,7 +7,7 @@
 	<body>
 		<h1>Team Three</h1>
 
-		<
+		<h3>List of Responsiblies</h3>
 		<ul>
 			<li></li>
 		</ul>
