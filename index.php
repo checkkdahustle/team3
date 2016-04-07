@@ -9,7 +9,6 @@
     <input type="submit" value="upload" name="submit">
 </form>
 
-
 <input type="submit" name="insert" value="insert" onclick="insert()" />
 <?php  ?>
 
@@ -20,3 +19,5 @@ function updategit(){
 string shell_exec ( string $"git pull team3 master" );
 }
 ?>
+</body>
+</html>
