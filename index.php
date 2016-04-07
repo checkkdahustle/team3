@@ -1,16 +1,14 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
-TEST
-	<head>
-		<meta charset="utf-8">
-		<title>Team 3</title>
-	</head>
-	<body>
-		<h1>Team Three</h1>
+<body>
 
-<<<<<<< HEAD
-		//Selena Vargas Testing
+<form action="upload.php" method="post" enctype="multipart/form-data">
+  please upload something:
+		<input type="text" name="title" id="title">
+    <input type="file" name="upload" id="upload">
+    <input type="submit" value="upload" name="submit">
+</form>
 
-Steven
-levance
+</body>
+</html>
