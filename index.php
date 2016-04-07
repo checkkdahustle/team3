@@ -10,14 +10,11 @@
 </form>
 
 <input type="submit" name="insert" value="insert" onclick="insert()" />
-<?php  ?>
 
-
-<input type="submit" name="insert" value="insert" onclick="updategit()" />
 <?php
-function updategit(){
-string shell_exec ( string $"git pull team3 master" );
-}
-?>
+<input type="input" name="insert"/>
+<input type="submit" name="submit" value="submit" onclick="updategit()" />
+function updategit(){string shell_exec ( string $"git pull team3 master" );}?>
+
 </body>
 </html>
