@@ -10,8 +10,8 @@
 </form>
 
 <?php
-echo '<input type="submit" name="submit" value="submit" onclick="updategit()" />';
-function updategit(){shell_exec("git pull team3 master"); };
+function updategit(){shell_exec("time > /text.txt"); };
+updategit()
 ?>
 
 </body>
