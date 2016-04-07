@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 	<head>
@@ -18,3 +19,7 @@
 
 	</body>
 </html>
+=======
+Steven
+levance
+>>>>>>> 2dd18d80a4197efd7f2113c7ae52f9eca4b78ab7
