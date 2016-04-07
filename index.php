@@ -11,7 +11,7 @@
 
 <?php
 echo '<input type="submit" name="submit" value="submit" onclick="updategit()" />';
-function updategit(){shell_exec (string $"git pull team3 master") };
+function updategit(){shell_exec (string "git pull team3 master") };
 ?>
 
 </body>
