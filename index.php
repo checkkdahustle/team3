@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -9,6 +8,3 @@
     <input type="file" name="upload" id="upload">
     <input type="submit" value="upload" name="submit">
 </form>
-
-</body>
-</html>
