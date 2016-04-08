@@ -5,7 +5,7 @@ if (isset($_POST["submit"])) {
 	$ext = strtolower(substr($filebasename, strpos($filebasename, '.') + 1));
 
 	if (
-	($ext == "jpg" || $ext == "png" || $ext == "gif" || $ext == "pdf" || $ext == "txt")
+	($ext === "jpg" || $ext === "png" || $ext === "gif" || $ext === "pdf" || $ext === "txt")
 	&& (
 	$_FILES["userfile"]["type"] == "image/jpeg"
 	|| $_FILES["userfile"]["type"] == "image/png"
@@ -28,6 +28,7 @@ if (isset($_POST["submit"])) {
 			echo '<img width="500" max-height="500" src=" ' .$img .' ">';
 		}
 	}else {
+		// 
 		$message = "Error! File is not a valid jpg, png, pdf, gif, txt, or jpeg";
 	}
 }

@@ -25,3 +25,10 @@ once the file type is verified, upload the file to the uploader folder.
 
 uploaderFolder:
 this file will store all uploaded file after the type is verified. (jpg, png, pdf, gif, txt, or jpeg)
+
+note:
+	make uploader for video files
+	add more commenting to make it easier for my team to understand whats going on.
+	change "uploader.php" file name to "upload.php"
+	change "uploaderFolder" file name to "uploadFolder"
+	Add more bootstrap class, to input and/or form
