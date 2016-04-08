@@ -32,3 +32,4 @@ note:
 	change "uploader.php" file name to "upload.php"
 	change "uploaderFolder" file name to "uploadFolder"
 	Add more bootstrap class, to input and/or form
+	Make a new branch for testing called "dev"
