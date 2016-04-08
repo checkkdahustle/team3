@@ -3,6 +3,8 @@ files needed:
 			uploader.php
 			uploader folder
 
+			I NEED A DRINK
+
 
 
 index.php:
