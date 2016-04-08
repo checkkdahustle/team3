@@ -1,0 +1,21 @@
+body{
+	background: url('../css/img/natural_bg.jpg')
+}
+
+form{
+	border: 1px solid #F4F4F4;
+	width: 500px;
+	min-height: 200px;
+	padding: 25px;
+	margin: 0 auto;
+	background-color: #BFBFBF;
+}
+
+h2{
+	color: #FF0000;
+	text-align: center;
+}
+
+.btn-primary{
+	float: right;
+}
