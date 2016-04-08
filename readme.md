@@ -1,5 +1,5 @@
-List of Responsiblies
+List of Responsible
 steven
 Levance
 Selena
-claygit
+clay
